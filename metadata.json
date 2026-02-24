@@ -1,0 +1,5 @@
+{
+  "name": "MedCore",
+  "description": "A modern E-Health platform featuring AI symptom checking, medical store locator, and secure health management.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
